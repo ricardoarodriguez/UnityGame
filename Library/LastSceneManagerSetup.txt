@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Unity Game.unity
+- path: Assets/Escenarios Folder/SimpleLowPolyNature/Scenes/DemoDay.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
